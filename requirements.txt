@@ -1,0 +1,5 @@
+yt_dlp
+tkinter
+openai
+vosk
+webvtt
